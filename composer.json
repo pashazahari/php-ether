@@ -25,6 +25,6 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "pashazahari/guzzle-jsonrpc": "^3.3"
+        "pashazahari/guzzle-jsonrpc": "^3.3.0"
     }
 }
