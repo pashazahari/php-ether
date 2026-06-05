@@ -1,5 +1,5 @@
 {
-    "name": "ofumbi/php-ether",
+    "name": "pashazahari/php-ether",
     "description": "Ethereum Php Wallet functions, To be used derive accounts and transactions without a node",
     "type": "library",
     "license": "MIT",
@@ -7,14 +7,14 @@
 	"repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/ofumbi/guzzle-jsonrpc"
+            "url": "https://github.com/pashazahari/guzzle-jsonrpc"
         }
     ],
 	
     "authors": [
         {
-            "name": "ofumbi",
-            "email": "ofuzak@gmail.com"
+            "name": "pashazahari",
+            "email": "pashazahari@gmail.com"
         }
     ],
 
